@@ -1,0 +1,3 @@
+# Medição e Análise da Resposta em Frequência, Tempo de Reverberação e Nível de Ruído em Ambientes de Ensino
+
+Este trabalho se utiliza de um sinal acústico chamado TSP (Time Stretched Pulse) para medir a resposta em frequência e o tempo de reverberação do ambiente. Os códigos utilizados para a geração do sinal, bem como para sua medição e análise foram feitos em Matlab. O [relatório final](./Documents/TCC%20-%20Bruno%20Lima.pdf) detalha os conceitos e métodos utilizados, bem como os resultados encontrados e futuras possibilidades de pesquisa.
